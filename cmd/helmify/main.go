@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/arttor/helmify/pkg/app"
+	"github.com/onelapahead/helmify/pkg/app"
 	"github.com/sirupsen/logrus"
 )
 
